@@ -38,8 +38,8 @@ The result is a county-level structural assessment of aging service capacity rel
 
 ```mermaid
 flowchart TD
-    A[CMS SNF + HHA (raw PUFs)] --> B[Ingest + Clean]
-    B --> C[Assign County GEOID (ZIP --> County)]
+    A[CMS SNF + HHA (raw PUFs)] to B[Ingest + Clean]
+    B --> C[Assign County GEOID (ZIP to County)]
     C --> D[Aggregate County-Level Supply]
     D --> E[Merge Aging Risk (ACS 5-year, cached locally)]
     E --> F[Preparedness Metrics + Tiering]
@@ -184,4 +184,5 @@ All sources are publicly available and reproducible:
 * Financial viability, reimbursement rates, and quality metrics are not modeled.
 
 *This project focuses on structural supply alignment rather than operational performance.*
+
 
