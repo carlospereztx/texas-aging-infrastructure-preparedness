@@ -1,0 +1,5 @@
+provider_density_quartile,n_counties,pct
+Q1 (Lowest),50,25.1
+Q2,50,25.1
+Q3,49,24.6
+Q4 (Highest),50,25.1

@@ -1,0 +1,2 @@
+rows,expected_rows_tx_counties,counties_with_any_providers,counties_with_zero_providers,counties_missing_acs
+254,254,221,33,0

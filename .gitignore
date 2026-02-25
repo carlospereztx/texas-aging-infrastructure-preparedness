@@ -1,0 +1,21 @@
+# R session files
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+# Environment / secrets
+.Renviron
+
+# renv (keep lockfile, ignore local library)
+renv/library/
+
+# Raw data (do not commit large CMS files)
+data/raw/
+
+# Optional: ignore processed if you want lean repo
+# data/processed/
+
+# OS files
+.DS_Store
+Thumbs.db

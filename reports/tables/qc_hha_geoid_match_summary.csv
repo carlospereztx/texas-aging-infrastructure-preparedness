@@ -1,0 +1,2 @@
+total_rows,rows_with_zip5,matched_to_county_geoid,unmatched_zip_rows,missing_or_invalid_zip5_rows,match_rate_among_rows_with_zip5
+1849,1849,1847,2,0,99.89

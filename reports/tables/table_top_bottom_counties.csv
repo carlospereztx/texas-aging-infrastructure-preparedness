@@ -1,0 +1,11 @@
+rank_group,county_name,county_geoid,pop_65p,providers_total,providers_per_10k_65p
+"Bottom 5 (eligible, lowest density)",Winkler County,48495,1012,0,0
+"Bottom 5 (eligible, lowest density)",Floyd County,48153,1017,0,0
+"Bottom 5 (eligible, lowest density)",Swisher County,48437,1228,0,0
+"Bottom 5 (eligible, lowest density)",Carson County,48065,1273,0,0
+"Bottom 5 (eligible, lowest density)",Presidio County,48377,1309,0,0
+"Top 5 (eligible, highest density)",Jim Wells County,48249,6147,14,22.78
+"Top 5 (eligible, highest density)",Zapata County,48505,1875,4,21.33
+"Top 5 (eligible, highest density)",Parmer County,48369,1463,3,20.51
+"Top 5 (eligible, highest density)",Wheeler County,48483,1010,2,19.8
+"Top 5 (eligible, highest density)",Duval County,48131,1533,3,19.57
